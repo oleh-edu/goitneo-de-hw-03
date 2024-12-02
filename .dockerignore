@@ -1,0 +1,16 @@
+# Ignore Docker Compose configuration
+docker-compose.yml
+
+# Ignore README files
+README.md
+
+# Ignore screenshots
+screenshots/
+
+# Ignore Git version control directory
+.git
+.gitignore
+
+# Ignore any other potential temporary files
+*.log
+*.tmp
